@@ -4,7 +4,7 @@ from llm.deepseek_api import analyze_resume
 
 st.set_page_config(page_title="SmartResume AI", layout="centered")
 
-st.title("📄 SmartResume AI – Resume Analyzer")
+st.title(" SmartResume AI – Resume Analyzer")
 st.write("Upload your resume and paste a job description. Get instant AI suggestions using DeepSeek.")
 
 # 1. Resume upload
